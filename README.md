@@ -1,2 +1,14 @@
 # springboot_example
 springboot示例代码库
+
+各个模块介绍
+
+springbootstart 模块属于入门级模块
+
+thymeleaf 模块springboot整合thymeleaf的入门案例
+
+fremarker 模块springboot整合fremarker入门案例
+
+backjson 模块SpringBoot整合@RestController返回json
+
+customjson 自定义使用Gson实现JSON数据的解析
