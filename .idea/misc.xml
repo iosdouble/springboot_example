@@ -6,6 +6,7 @@
         <option value="$PROJECT_DIR$/thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/springbootstart/pom.xml" />
         <option value="$PROJECT_DIR$/fremarker/pom.xml" />
+        <option value="$PROJECT_DIR$/backjson/pom.xml" />
       </list>
     </option>
   </component>
