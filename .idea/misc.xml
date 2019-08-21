@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/fremarker/pom.xml" />
         <option value="$PROJECT_DIR$/backjson/pom.xml" />
         <option value="$PROJECT_DIR$/customjson/pom.xml" />
+        <option value="$PROJECT_DIR$/springbootproperties/pom.xml" />
       </list>
     </option>
   </component>

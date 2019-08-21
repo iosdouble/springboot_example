@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/backjson/backjson.iml" filepath="$PROJECT_DIR$/backjson/backjson.iml" />
       <module fileurl="file://$PROJECT_DIR$/customjson/customjson.iml" filepath="$PROJECT_DIR$/customjson/customjson.iml" />
       <module fileurl="file://$PROJECT_DIR$/fremarker/fremarker.iml" filepath="$PROJECT_DIR$/fremarker/fremarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springbootproperties/springbootproperties.iml" filepath="$PROJECT_DIR$/springbootproperties/springbootproperties.iml" />
       <module fileurl="file://$PROJECT_DIR$/springbootstart/springbootstart.iml" filepath="$PROJECT_DIR$/springbootstart/springbootstart.iml" />
       <module fileurl="file://$PROJECT_DIR$/thymeleaf/thymeleaf.iml" filepath="$PROJECT_DIR$/thymeleaf/thymeleaf.iml" />
     </modules>
